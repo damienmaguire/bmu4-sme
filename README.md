@@ -6,6 +6,9 @@ Module markings: `8845283-05`, `BMU4 H`, `230911 12`, `SK`, `24.04.24`, `00314`.
 
 Identified as Panasonic SME (Speicher Management Elektronik), BMW P/N 61278845283 / 8845283-05, Panasonic P/N 23091112. Master BMS on Gen5 ~400 V packs (i4, iX, iX1, iX3, i5, i7 and related). This work treats it as an SBox-class device: contactors, precharge, pack voltage and current, HVIL. Target behaviour is the ZombieVerter / OpenInverter SBox command set (PHEV `0x100` / `0x300` family), not a new protocol.
 
+<img width="4096" height="2304" alt="bmw_sme_box10" src="https://github.com/user-attachments/assets/335f0a59-81bc-4245-9d2d-aa4aac2adff1" />
+
+
 ## Scope
 
 - Keep the pack contactors, the contactor loom, and the bottom HV sensor board.
