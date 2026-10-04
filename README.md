@@ -128,4 +128,4 @@ Saleae Logic 2 exports in `logs/`. Odd-numbered files in a pair are the MOSI-onl
 
 ## Licence
 
-Hardware notes and captures here are released for reuse in EV conversions. No BMW firmware is included.
+GNU GPL V3
